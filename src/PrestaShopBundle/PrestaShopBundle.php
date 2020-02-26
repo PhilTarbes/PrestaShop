@@ -1,7 +1,7 @@
 <?php
 /**
  * 2007-2019 PrestaShop and Contributors
- * héhé moi c'est Fifi
+ * héhé moi c'est Fifi : des questions?
  * NOTICE OF LICENSE
  *
  * This source file is subject to the Open Software License (OSL 3.0)
